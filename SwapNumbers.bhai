@@ -1,0 +1,12 @@
+hi bhai
+    bhai ye hai a = 10;
+    bhai ye hai b = 20;
+
+    bol bhai "Pehle a: " + a + ", b: " + b;
+
+    bhai ye hai temp = a;
+    a = b;
+    b = temp;
+
+    bol bhai "Baad me a: " + a + ", b: " + b;
+bye bhai
